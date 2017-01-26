@@ -107,7 +107,7 @@ bool operator>(Polynomial poly1, Polynomial poly2);
 int main() {
     
     // Prints introduction to screen
-    cout << "Welcome! Please input the coefficients of the first polynomial, p.\nWhen you are finished, enter -123456789.\n";
+    cout << "Welcome! Please input the coefficients of the first polynomial, p, pressing enter after each coefficient.\nWhen you are finished, enter -123456789.\n";
     
     // Declares vector v1 for storage
     int coeffs_input1 = 0;
