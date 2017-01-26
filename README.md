@@ -4,7 +4,9 @@
 
 ## Functionality
 
-Passing by value
+This program prompts the user to input two polynomials, displays the polynomials, and then proceeds to perform various predefined manipulations on these functions.
+
+This program makes use of passing by reference and value, operator overloading, and class-based representations of mathematical functions.
 
 ## Usage
 
