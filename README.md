@@ -13,4 +13,5 @@ This program makes use of passing by reference and value, operator overloading, 
 1. Clone or download the repository.
 2. Either simply run the Unix executable file, or compile the source code yourself and run.
 
+![polynomial](https://cloud.githubusercontent.com/assets/18273101/22315449/8622e378-e31b-11e6-9b01-64d9a640d8b1.gif)
 
